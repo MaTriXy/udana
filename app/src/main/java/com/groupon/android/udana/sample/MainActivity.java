@@ -11,6 +11,10 @@ import com.groupon.android.udana.R;
 import com.groupon.android.udana.Uda;
 import com.groupon.android.udana.Udana;
 
+/**
+ * Sample activity, its {@Udana} annotated fields
+ * will be recycled through different instances created by rotation.
+ */
 public class MainActivity extends AppCompatActivity {
 
     private Button button;

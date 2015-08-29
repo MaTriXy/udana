@@ -1,8 +1,9 @@
 package com.groupon.android.udana;
 
 /**
- * Annotate your fields with this annotation
- * so that they survive to rotation.
+ * Fields annotated with this annotation
+ * will be passed to different instances
+ * over rotation, they will survive to rotation.
  */
 public @interface Udana {
 }

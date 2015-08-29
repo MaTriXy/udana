@@ -6,6 +6,8 @@ import com.groupon.android.udana.Uda;
 import com.groupon.android.udana.Udana;
 
 /**
+ * Sample activity number 2, its {@Udana} annotated fields
+ * will be recycled through different instances created by rotation.
  */
 public class SampleActivity extends Activity {
     String string;
