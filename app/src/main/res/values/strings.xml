@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Udana</string>
+  <string name="title_activity_sample2">SampleActivity2</string>
+
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+  <string name="title_activity_main">MainActivity</string>
+</resources>
