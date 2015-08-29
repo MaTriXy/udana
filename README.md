@@ -1,6 +1,10 @@
 # udana
 Android lib that preserves any annotated field of activities over rotation.
 
+###Requirements
+
+Udana requires Android API 14+.
+
 ###Usages 
 
 Udana will preserve all `@Udana` annotated fields of an activity across rotations.
